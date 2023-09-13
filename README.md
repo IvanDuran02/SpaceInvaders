@@ -1,2 +1,2 @@
-#JavaFX Space Invaders!
+# JavaFX Space Invaders!
 There is a bunch of boiler-plate code that I'm not sure how to organize since it's my first time using JavaFX but basically the code is here -> [SpaceInvadersApp.java](src/main/java/com/invaders/spaceinvaders/SpaceInvadersApp.java)
